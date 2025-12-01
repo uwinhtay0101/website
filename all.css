@@ -316,3 +316,20 @@ textarea{
     font-size: 30px;
     font-weight: 300px;
 }
+
+
+
+.stateday{
+    font-size:20px;
+}
+.ourstate{
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.fight{
+     margin-left: 15%;
+    margin-right: 15%;
+}
+.liquid-link{
+    float:right
+}
