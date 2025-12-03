@@ -333,3 +333,11 @@ textarea{
 .liquid-link{
     float:right
 }
+
+.middle{
+    font-size:xx-large;
+    text-align: center;
+}
+.new-link{
+    float:right
+}
